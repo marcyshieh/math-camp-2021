@@ -2,7 +2,7 @@
 title: "Math Camp: Lesson 2.5"
 subtitle: "Introduction to R"
 author: "UW--Madison Political Science"
-date: "August 18, 2020"
+date: "August 31, 2021"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -346,7 +346,7 @@ class: center, middle
 
 Homework is online
 
-https://github.com/shirikov/math-camp-2020
+https://github.com/marcyshieh/math-camp-2021
 
 ```{css, echo=FALSE}
 @media print {
